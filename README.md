@@ -9,7 +9,7 @@ DIET Department, Sapienza University of Rome, Rome, Italy
 
 
 <p align="center">
-	<img src="https://github.com/clabat9/Tangent-Bundle-Neural-Networks/blob/main/sphere_ex_cropped.jpg?raw=true" alt="drawing" width="400"/>
+	<img src="https://github.com/clabat9/Topological-Slepians/blob/main/sphere_ex_cropped.jpg?raw=true" alt="drawing" width="400"/>
 </p>
 
 ## Abstract
