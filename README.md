@@ -17,7 +17,8 @@ This paper introduces topological Slepians, i.e., a novel class of signals defin
 
 ## Summary
 The code  is ready to run  (with saving directory to be specified on local machines). For any questions, comments or suggestions, please e-mail Claudio Battiloro at claudio.battiloro@uniroma1.it. The results showed in the sparse representation curve are in sparsity.csv (that it the output of `simplicial_slepians_experiments.py`. The NMSE vs SNS curve of the denoising task can be obtained via the `denoising_curve_script_vs_SNR.m` that takes as inputs the denoising results (i.e. the outputs of `simplicial_slepians_experiments_denois.py`). 
-Thanks to Mitch Roddenberry (Rice ECE) for sharing the code of his Hodgelets paper; this code is built on top of it.
+
+Thanks to Mitch Roddenberry (Rice ECE) for sharing the code of his Hodgelets paper; this code and the experimental set-up are built on top of it.
 
 
 ## Important files description
